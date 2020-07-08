@@ -1,0 +1,2 @@
+# Interview_question_bank
+用来记录嵌入式linux面试题库
